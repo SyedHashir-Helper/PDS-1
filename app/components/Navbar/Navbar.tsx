@@ -87,18 +87,18 @@ const Navbar = () => {
                                     src={'/assets/logo/Final logo 4.png'}
                                     alt="dsign-logo"
                                 /> */}
-                                <Image
+                                {/* <Image
                                     className="h-auto p-3 max-h-[calc(100%+15px)] w-auto max-w-full object-contain drop-shadow-lg"
                                     src={'/assets/logo/Final logo 5.png'}
                                     alt="dsign-logo"
                                     width={100}
                                     height={100}
-                                />
-                                {/* <img
-                                    className="h-auto p-3 max-h-[calc(100%+15px)] w-auto max-w-full object-contain drop-shadow-lg"
-                                    src={'/assets/logo/Final logo 6.png'}
-                                    alt="dsign-logo"
                                 /> */}
+                                <img
+                                    className="h-auto p-3 max-h-[calc(100%+15px)] w-auto max-w-full object-contain drop-shadow-lg"
+                                    src={'/assets/logo/Final logo 5.png'}
+                                    alt="dsign-logo"
+                                />
                                 {/* <img
                                     className="h-auto p-3 max-h-full w-auto max-w-full object-contain"
                                     src={'/assets/logo/7.png'}
